@@ -7,7 +7,8 @@
 }
 
 .bg-color-three-reasons{
-    background-color: #fff;
+    /* background-color: #fff; */
+    background-color: #040406;
 }
 
 .bg-color-personal-info{
@@ -19,7 +20,8 @@
 }
 
 .bg-color-contact{
-    background-color: #fff;
+    /* background-color: #fff; */
+    background-color: #040406;
 }
 
 .ui-menu-color-home{
@@ -186,6 +188,11 @@ header{
     font-weight: 300;
     margin-top: 25px;
     margin-bottom: 40px;
+    color: #fafafa;
+}
+
+.section-heading-black{
+    color: #040406;
 }
 
 /* Hover.css */
@@ -260,6 +267,11 @@ footer{
 
 .three-reasons-heading{
     margin-bottom: 15px;
+}
+
+.three-reasons-heading,
+.three-reasons-text{
+    color: #fafafa;
 }
 
 /* Personal Info */
@@ -379,6 +391,11 @@ form>input{
     font-weight: 300;
     margin-top: 25px;
     margin-bottom: 20px;
+    color: #fafafa;
+}
+
+h5{
+    color: #fafafa;
 }
 
 .center-form{
