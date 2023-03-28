@@ -147,6 +147,14 @@ header{
     font-size: 26px;
 }
 
+#active-page span{
+    color: #ffffff70;
+}
+
+#active-page i{
+    color: #ffffff70;
+}
+
 .menuitem span{
     display: block;
     width: 100%;
